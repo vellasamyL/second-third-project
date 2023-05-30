@@ -1,0 +1,29 @@
+  /* third project */
+  @media (max-width:768px){
+    .team-img{
+        margin-top: 30px;
+    }
+    .team-icon{
+        margin-top: 0 px;
+    }
+    .team-icon a {
+        margin-top: 5px;
+    }
+    .team-border{
+        border: solid 1px rgba(255, 0, 0, 0.829);
+        background-color: #fff;
+        height: 250px;
+        width: 90%;
+      }
+    .team-head h3{
+        color: #230d56;
+        font-size: 20px;
+        margin-top: 0px;
+        font-weight: 600;
+      }
+      .footer-paras{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+  }
