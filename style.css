@@ -68,7 +68,7 @@ li {
 .head2{
     background-color: rgba(255, 0, 0, 0.829);
     color:#ffffffab;
-    padding: 4px 0;
+    padding: 17px 0;
 }
 .row>* {
      padding-right: calc(var(--bs-gutter-x) * .0);
